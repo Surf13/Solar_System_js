@@ -5,7 +5,7 @@ This project simulates a basic model of the solar system using textures and anim
 - Three.js
 - Javascript
 - HTML
-- OrbitalControls  (Three.js extension)
+- OrbitControls  (Three.js extension)
 
 ## Screenshots
 ![Screenshot 1](/assets/screenshots/Screenshot1.png)
@@ -15,7 +15,7 @@ This project simulates a basic model of the solar system using textures and anim
 ![Screenshot 3](/assets/screenshots/Screenshot3.png)
 
 ## Getting Started
-### Clone the Respository:
+### Clone the Repository:
  ```
  git clone https://github.com/Surf13/Solar_System.git
 
